@@ -44,7 +44,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="613" height="371" alt="image" src="https://github.com/user-attachments/assets/27a8648b-2eaa-47a1-ad8f-238145527368" />
 
 ---
 
@@ -60,16 +60,23 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+|    50HZ        |         138V                 |   0.644      |   1.938    |
+|    3.33HZ      |         1500                 |   0.700      |   1.549    |
+|    9.86HZ      |         1480                 |   0.691      |   1.603    |
+|    10.2KHZ     |         1480                 |   0.691      |   1.605    |
+|    13KHZ       |         1460                 |   0.68       |   1.674    |
+|    16KHZ       |         1440                 |   0.672      |   1.726    |
+|    33MHZ       |         1400                 |   0.684      |   1.844    |
+|    3MHZ        |         136V                 |   0.028      |   1.526    |
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/05a93b4d-2b5b-4924-b269-f317a300d6eb" />
 
----
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus,the relationship between input and received signal of a 660nm fiber optic cable using analog and digital link are verified.
+
